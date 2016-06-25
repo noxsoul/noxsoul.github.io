@@ -1,0 +1,6 @@
+{
+  "name": "Noxsoul.GitHub.io",
+  "tagline": "",
+  "body": "# Aaron Ureel (@noxsoul)\r\n*Husband, Father, Application Developer and Technologist*\r\n\r\n## Background\r\nI have been a C# developer for years and simply looking to learn some other programming languages.  I am transitioning into the DevOps side of our team and looking to learn some new tricks.\r\n\r\n### Upcoming Projects\r\n- DevOps builds using node.js and the scripts in package.json\r\n- Standards for DevOps workflows with multiple environments (I.e. RnD, UAT, QA, and Prod)\r\n- Converting a dynamic plugin framework using Silverlight into HTML5 \r\n\r\n### Current Projects\r\n- SVN Migration to Git for all our current applications\r\n- Training team on the use of Git (and its many advantages ;)\r\n- Helper scripts for developer and test teams (using PowerShell, Python, and node.js)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
